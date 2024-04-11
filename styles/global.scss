@@ -1,0 +1,160 @@
+body {
+    font-family: Aktivgroteskvf trial wghtwdthital, sans-serif;
+}
+.margin-top-1x {
+    margin-top: 15%;
+}
+.flex {
+    display:flex;
+}
+.align-center {
+    align-items: center;
+}
+.justify-center {
+    justify-content: center;
+}
+.justify-end {
+    justify-content: flex-end;
+}
+.margin-top-10px {
+    margin-top: 10px;
+}
+.margin-top-50px {
+    margin-top: 50px;
+}
+.success {
+    background-color: #42B721;
+}
+.white {
+    color: white;
+}
+.background-grey {
+    background-color: #F0F2F5;
+}
+.flex-column {
+    flex-direction: column;
+}
+.width-30 {
+    width: 30%;
+}
+.width-60 {
+    width: 60%;
+}
+.width-100 {
+    width: 100%;
+}
+.margin-left-10 {
+    margin-left: 10%;
+}
+.padding-left-right-50 {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.padding-top-bottom-20 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.margin-top-100px {
+    margin-top: 100px;
+}
+.margin-bottom-100px {
+    margin-bottom: 100px;
+}
+.margin-top-30px {
+    margin-top: 30px;
+}
+.align-start {
+    align-items: flex-start;
+}
+.m-10 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.margin-left-10px {
+    margin-left: 10px;
+}
+.margin-right-10px {
+    margin-right: 10px;
+}
+.margin-right-30px {
+    margin-right: 30px;
+}
+.primary-color {
+    background-color: #F7F5F2;
+}
+h2 {
+    color: #1f1f1f;
+    text-align: center;
+    font-size: 40px;
+}
+p {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    color: #1f1f1f;
+}
+.margin-top-0 {
+    margin-top: 0;
+}
+.mb-0 {
+    margin-bottom: 0;
+}
+.margin-left-right-50px {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.margin-top-bottom-50px {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.mb-20 {
+    margin-bottom: 20px;
+}
+.mr-20 {
+    margin-right: 20px;
+}
+.mt-0 {
+    margin-top: 0;
+}
+.description {
+    color: gray;
+   font-size: 16px;
+}
+
+.flex-1 {
+    flex: 1;
+}
+.font-20 {
+    font-size: 20px;
+}
+.m-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+.mr-5 {
+    margin-right: 5px
+}
+.ml-5 {
+    margin-left: 5px
+}
+.mt-5 {
+    margin-top:5px;
+}
+.text-white {
+    color: white;
+}
+.font-12 {
+    font-size: 12px
+}
+
+.ant-layout {
+    height: 100vh;
+}
+
+.text-right {
+    text-align: right;
+}
+.justify-between {
+    justify-content: space-between;
+}

@@ -1,0 +1,101 @@
+.login-form-button {
+    width: 100%;
+}
+.contentStyle {
+    height: '160px';
+    color: '#fff';
+    line-height: '160px';
+    text-align: 'center';
+    background: '#364d79';
+  };
+
+  .carousel-image1 {
+    background: linear-gradient(to top, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url('../public/images/carousel1.jpeg');
+  }
+  .carousel-image2 {
+    background: linear-gradient(to top, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url('../public/images/carousel2.jpeg');
+  }
+
+  .carousel-img-prop {
+    height:500px;
+    background-size: cover;
+    background-position: center;
+  }
+  .login-container {
+    background-color: #f7f5f2;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: auto;
+    padding:50px 0px;
+    & .ant-card {
+      box-shadow:   0 1px 2px -2px rgba(0, 0, 0, 0.16),0 3px 6px 0 rgba(0, 0, 0, 0.12),0 5px 12px 4px rgba(0, 0, 0, 0.09)
+    }
+  }
+  .login-form-forgot
+  {
+    float: right;
+    align-self: flex-end;
+  }
+  .login-button{
+    border-radius: 4px;
+  }
+  .img-logo
+  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+  }
+  .regi{
+    margin-top:10px;
+    display: flex;
+    align-items: right;
+    justify-content: right;
+  }
+  a{
+    /* color: inherit; */
+    cursor: pointer;
+    text-decoration: none;
+  }
+  .product-service-wrapper {
+        padding-top:50px;
+        padding-bottom:50px;
+  }
+
+  .about-company {
+    background-color: #F7F5F2;
+    display: flex;
+    justify-content: space-around;
+
+  }
+  .partner-card {
+    box-shadow: 0 1px 2px -2px rgba(0, 0, 0, 0.16),0 3px 6px 0 rgba(0, 0, 0, 0.12),0 5px 12px 4px rgba(0, 0, 0, 0.09);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .text-center {
+    text-align:center;
+  }
+  .about-us-img-blur {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+  }
+  .about-us-img-text {
+    position: absolute;
+    color: white;
+    text-align: center;
+    top: 40%;
+    z-index: 1;
+    font-size:60px;
+    left: 45%;
+  }
+  .position-relative {
+    position:relative;
+  }

@@ -1,0 +1,22 @@
+.header {
+      display: flex;
+
+
+      .cart {
+            font-size: 22px;
+      }
+      .ant-menu-title-content {
+            font-weight: bold;
+        }
+
+        .ant-menu {
+            border: 0;
+        }
+}
+
+
+.about-company-img {
+      width:80%;
+      object-fit: cover;
+      border-radius: 30px;
+    }
